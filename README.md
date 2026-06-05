@@ -223,12 +223,11 @@ WooCommerce 주문 데이터를 기반으로 고객 응대와 주문 상태 관�
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://jinsik-github-readme-stats.vercel.app/api?username=yujinsik-momo&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-<img src="https://jinsik-github-readme-stats.vercel.app/api/top-langs/?username=yujinsik-momo&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yujinsik-momo&theme=tokyo-night&hide_border=true" />
 
 </div>
 
