@@ -78,7 +78,7 @@ LINE, Slack, WooCommerce API를 연동한 고객 응대 자동화 시스템 개�
 
 ---
 
-## 🚀 Projects
+##  Projects
 
 ### 1. Backend Developer Portfolio
 
@@ -153,7 +153,7 @@ LINE 공식 계정을 기반으로 한 챗봇 데모입니다.
 
 ---
 
-## 📌 Main Experience
+##  Main Experience
 
 ### AI Chatbot System for Customer Support
 
