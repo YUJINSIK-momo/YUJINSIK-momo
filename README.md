@@ -149,8 +149,19 @@ LINE 공식 계정을 기반으로 한 챗봇 데모입니다.
 
 [💬 Open LINE Chatbot](https://line.me/R/ti/p/@118htpvo)
 
-<br/>
+### 7. Rabbit Secretary (토끼 비서)
 
+Windows/macOS 트레이에 상주하는 데스크톱 비서 앱입니다.  
+명령을 입력하면 클립보드에 복사하고, 선택한 Claude / ChatGPT 데스크톱 앱을 실행해  
+AI 활용 흐름을 원클릭으로 줄이는 워크플로 자동화 도구입니다.
+
+**Keywords**  
+`Tauri` `React` `TypeScript` `Desktop App` `Workflow Automation` `Cross-platform`
+
+[🔗 GitHub Repository](https://github.com/YUJINSIK-momo/Rabbit-Secretary)  
+[📦 Download (Releases)](https://github.com/YUJINSIK-momo/Rabbit-Secretary/releases)
+
+<br/>
 ---
 
 ##  Main Experience
