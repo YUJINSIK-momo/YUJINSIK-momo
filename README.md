@@ -45,9 +45,9 @@
 
 [🔗 사례 보기](https://yujinsik-momo.github.io/Backend-Developer-Portfolio/work/design-harness)
 
-### 블루맵스 상권 분석 서비스 · `인프라 · 운영`
+### 상권 프로젝트 · `인프라 · 운영` · 회사 프로젝트
 
-지도 · 상권 리포트 · AI 어시스턴트를 갖춘 공개 웹 서비스. 빈 저장소에서 시작해 **15일 동안 운영 릴리스 20개**.
+지도 · 상권 리포트 · AI 어시스턴트를 갖춘 공개 상권 분석 서비스. 빈 저장소에서 시작해 **15일 동안 운영 릴리스 20개**.
 
 - **AWS**: Terraform 으로 ECS Fargate · ALB · ECR · S3 · Secrets Manager · CloudWatch · EventBridge · SES 구성, 월 약 $59
 - **보안**: 배포 경로에 장기 키 없음(GitHub OIDC), 최소 권한 배포 역할, 혼동된 대리인 방지, 로그 위생, AI 개인정보 가림
@@ -56,13 +56,13 @@
 
 `Terraform` `ECS Fargate` `GitHub OIDC` `NestJS` `Next.js` `Socket.IO` `Gemini` `Codex CLI`
 
-[🔗 사례 보기](https://yujinsik-momo.github.io/Backend-Developer-Portfolio/work/blue-maps) · [🌐 thebluemaps.com](https://thebluemaps.com)
+[🔗 사례 보기](https://yujinsik-momo.github.io/Backend-Developer-Portfolio/work/trade-area)
 
-### 운영 대시보드 · `인프라 · 운영`
+### 상권 프로젝트 운영 대시보드 · `인프라 · 운영`
 
-로그 · 배포 · 인프라 · 개발 흐름을 한 화면에서. 외부 의존성 0, 읽기 전용 IAM, 루프백 + 사설망 공유, 테스트 510개.
+로그 · 배포 · 인프라 · 개발 흐름을 한 화면에서. 배포 중 파드가 뜨고 내려가는 모습을 ArgoCD 처럼 보여 준다. 외부 의존성 0, 읽기 전용 IAM, 루프백 + 사설망 공유, 테스트 510개.
 
-[🔗 사례 보기](https://yujinsik-momo.github.io/Backend-Developer-Portfolio/work/ops-dashboard)
+[🔗 사례 · 배포 재생 화면](https://yujinsik-momo.github.io/Backend-Developer-Portfolio/work/ops-dashboard#demo)
 
 <br/>
 
