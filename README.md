@@ -74,7 +74,8 @@
 |---|---|---|---|
 | **사내 HR · 업무 시스템** | 근태 · 연차 · 사내 채팅 · 디자인 요청. Gemini 로 한/영/일 번역(용어 사전 주입)과 시안 이미지 생성 | Express · Prisma · PostgreSQL(RDS) · S3 · Gemini | [데모](https://yujinsik-momo.github.io/HR-System-Portfolio/) · [GitHub](https://github.com/YUJINSIK-momo/HR-System-Portfolio) |
 | **AI 가상 회사** | 역할별 Claude 에이전트 10명이 일일 보고, CTO 에이전트가 GitHub 커밋을 읽고 코드 리뷰 | Claude API · Express 5 · Supabase · React | [데모](https://yujinsik-momo.github.io/AI-Agent/) · [GitHub](https://github.com/YUJINSIK-momo/AI-Agent) |
-| **일본 고객 LINE 상담 백엔드** | Dialogflow 의도 감지 → 신뢰도 낮으면 LLM 폴백 → 주문 · 결제 · 배송 담당자에게 Slack 연결 | Express 5 · Dialogflow · OpenAI 호환 LLM · Prisma · Redis | — |
+| **일본 고객 LINE 상담 백엔드** | Dialogflow 의도 감지 → 신뢰도 낮으면 LLM 폴백 → 주문 · 결제 · 배송 담당자에게 Slack 연결 | Express 5 · Dialogflow · OpenAI 호환 LLM · Prisma · Redis | [GitHub](https://github.com/YUJINSIK-momo/momotyan) |
+| **스포츠 채널 LINE 챗봇** | 야구 · 축구 · 농구 채널별 일본어 챗봇. FAQ 유사도가 높으면 FAQ 로, 낮으면 Gemini 로 넘기는 하이브리드 응답 | FastAPI · LangChain · Gemini · LINE API | [GitHub](https://github.com/YUJINSIK-momo/LangChain_TEST_yuyu) |
 | **Slack 한↔일 업무 번역 봇** | 사내 메시지를 양식째 번역하고 상태 버튼 · 담당자 멘션으로 업무 흐름 관리 | Slack Bolt · OpenAI | 비공개 |
 | **Rabbit Secretary** | 트레이 상주 데스크톱 비서. 저장소 자체가 Claude Code 작업 키트(agents · commands · phase) 예시 | Tauri 2 · Rust · React 19 | [GitHub](https://github.com/YUJINSIK-momo/Rabbit-Secretary) |
 | **LINE 공식 계정 챗봇 · CRM** | 고객 · 대화 저장, 자동 응답 ↔ 상담원 모드 전환, 리치 메뉴 자동 등록 | Vercel Serverless · Supabase · LINE API | [사이트](https://chatbot-jinsik.vercel.app) · [💬 @118htpvo](https://line.me/R/ti/p/@118htpvo) |
